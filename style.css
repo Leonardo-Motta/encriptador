@@ -42,21 +42,6 @@ main {
 }
 
 .cajatexto {
-  /*border: none;
-  color: #0a3871;
-  margin-top: 90px;
-  text-transform: lowercase;
-  border: none;
-  color: #0a3871;*/
-  /*margin-top: 90px;
-  text-transform: lowercase;
-  width: 80%;
-  height: 100%;
-  background-color: #f4f4fc;
-  cursor: pointer;
-  font-size: 32px;
-  font-weight: 400;
-  font-family: "Inter";*/
   border: none;
   text-transform: lowercase;
   position: absolute;
@@ -137,16 +122,6 @@ main {
 }
 
 .seccion2 {
-  /*background: white;*/
-  /*border: none;
-  
-  color: #0a3871;
-  margin-left: 98px;
-  margin-top: 20px;
-  padding-left: 20px;
-  position: fixed;
-  
-  */
   display: block;
   position: relative;
   width: 400px;
@@ -218,7 +193,7 @@ main {
   width: 328px;
   height: 67px;
   border-radius: 24px;
-  background-color: #ffffff;
+  background-color: #f3f5fc;
   color: #0a3871;
   font-size: 16px;
   font-weight: 400;
@@ -228,6 +203,20 @@ main {
   position: relative;
   top: 50px;
   right: 4px;
+}
+
+.footer {
+  background-color: #f3f5fc;
+  padding: 24px;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  top: 1000px;
+  left: 370px;
+  color: #495057;
+  gap: 8px;
 }
 
 .ocultar {
