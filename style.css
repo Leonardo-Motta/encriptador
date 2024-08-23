@@ -43,7 +43,6 @@ main {
 
 .cajatexto {
   border: none;
-  text-transform: lowercase;
   position: absolute;
   width: 42%;
   height: 60%;
